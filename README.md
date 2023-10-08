@@ -17,7 +17,7 @@ This Python project is designed to solve unsolved Sudoku puzzles that you upload
 
 To run this project locally, you can follow these steps:
 
-1. Clone the repository to your local machine: `git clone https://github.com/yourusername/sudoku-solver-with-python-opencv.git`
+1. Clone the repository to your local machine: `git clone https://github.com/ozermehmett/sudoku-solver-with-python-opencv.git`
 2. Install the required Python libraries using pip: `pip install -r requirements.txt` 
 3. Create a Telegram bot and get the API token. You can do this by talking to the [BotFather](https://core.telegram.org/bots#botfather) on Telegram.
 4. Replace the `TOKEN` variable in the `telegram_bot.py` file with your bot's API token.

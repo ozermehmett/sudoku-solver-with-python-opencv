@@ -1,0 +1,5 @@
+numpy==1.21.2
+opencv-python==4.5.3
+python-telegram-bot==13.2
+imutils==0.5.4
+pytesseract==0.3.8

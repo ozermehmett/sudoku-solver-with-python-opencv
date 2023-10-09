@@ -21,7 +21,8 @@ To run this project locally, you can follow these steps:
 2. Install the required Python libraries using pip: `pip install -r requirements.txt` 
 3. Create a Telegram bot and get the API token. You can do this by talking to the [BotFather](https://core.telegram.org/bots#botfather) on Telegram.
 4. Replace the `TOKEN` variable in the `telegram_bot.py` file with your bot's API token.
-5. Run the `main.py` script to start the bot: `python main.py`
+5. Install Tesseract-OCR on your computer and add the file path to System Environment Variables as `PATH`
+6. Run the `main.py` script to start the bot: `python main.py`
 
 
 ## Example
